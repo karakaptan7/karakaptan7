@@ -46,7 +46,7 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: master
           force: true
-         env:
+        env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - uses: crazy-max/ghaction-github-pages@v2.1.3
