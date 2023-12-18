@@ -1,8 +1,9 @@
 ### Hi there 👋
-![snake gif](https://github.com/karakaptan7/karakaptan7/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/karakaptan7/karakaptan7/blob/output/github-contribution-grid-snake-dark.svg)
 <!--
 **karakaptan7/karakaptan7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+github-contribution-grid-snake-dark.svg
+https://github.com/karakaptan7/karakaptan7/blob/output/github-contribution-grid-snake-dark.svg
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
